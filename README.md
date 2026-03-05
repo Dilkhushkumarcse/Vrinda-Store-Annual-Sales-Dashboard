@@ -1,3 +1,6 @@
+# Dashboard Preview
+
+![Pizza Sales Dashboard](1.png)
 
 # Vrinda Store Annual Sales Dashboard (Excel Project)
 
@@ -6,11 +9,6 @@
 The **Vrinda Store Annual Sales Dashboard** is an interactive **Excel-based business intelligence dashboard** designed to analyze and visualize the annual sales performance of Vrinda Store.
 
 The dashboard helps businesses understand sales trends, customer behavior, order status, and channel performance. It enables decision-makers to identify key insights and improve business strategies.
-
-## Dashboard Preview
-
-![Image](https://media.licdn.com/dms/image/v2/D5612AQHury57txI-9A/article-cover_image-shrink_720_1280/B56ZvlCX7wH4AM-/0/1769074165500?e=2147483647\&t=vHumQMG60Pj-6hNCaetrexKzYcbN5sstmGE1gL6J12A\&v=beta)
-
 
 # Project Objectives
 
